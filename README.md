@@ -1,3 +1,4 @@
+TASK -2 
 # Employee Management System (Java)
 
 ## Project Description
@@ -35,3 +36,8 @@ Program runs in console and shows employee details based on user input.
 
 ## Note
 This project is created for internship/task submission and learning purpose.
+
+
+ TASK -2 
+
+ Java File Handling project that reads data from a text file, counts lines, words, and characters, then writes the processed report into another file using exception handling.
