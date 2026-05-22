@@ -42,8 +42,10 @@ This project is created for internship/task submission and learning purpose.
 
  Java File Handling project that reads data from a text file, counts lines, words, and characters, then writes the processed report into another file using exception handling.
 
-Task-3 
+TASK -3 
+
 Simple Banking Application
+
 A basic Java console-based banking system that allows users to:
 
 Deposit money
